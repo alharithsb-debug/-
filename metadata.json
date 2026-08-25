@@ -1,0 +1,6 @@
+{
+  "name": "القرآن الكريم | Quran Voice",
+  "description": "تطبيق قرآن كريم صوتي احترافي وعصري للاستماع وتدبر وتفسير القرآن الكريم بأصوات نخبة من أشهر القراء مع مشغل صوتي متقدم وميزات دون اتصال.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
